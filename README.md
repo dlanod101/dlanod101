@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Donald</h1>
 <h3 align="center">A passionate Backend developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dlanod101&label=Profile%20views&color=0e75b6&style=flat" alt="dlanod101" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlanod101&label=Profile%20views&color=0e75b6&style=flat" alt="dlanod101" /> <span><a href="https://wakatime.com/@4cd4f7fe-1162-4386-8bea-15d2022ee2fe"><img src="https://wakatime.com/badge/user/4cd4f7fe-1162-4386-8bea-15d2022ee2fe.svg" alt="Total time coded since Oct 3 2024" /></a></span> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlanod101" alt="dlanod101" /></a> </p>
 
